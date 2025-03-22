@@ -37,6 +37,27 @@
 - **Freemium Model:** Basic features free, premium features via subscription.
 - **Enterprise Solutions:** Custom dashboards, API integrations for large businesses.
 
+📦 FinSight
+ ├── 📂 frontend            # React.js UI components
+ ├── 📂 backend             # API and authentication (Node.js)
+ ├── 📂 database            # PostgreSQL / MongoDB schema
+ ├── 📂 docs                # Documentation & API references
+ ├── 📂 tests               # Unit and integration tests
+ ├── 📜 README.md           # Project documentation
+ ├── 📜 LICENSE             # Open-source license (MIT)
+```
+
+### **FinTRACK**
+```
+📦 FinTRACK
+ ├── 📂 frontend            # React.js UI components
+ ├── 📂 backend             # API and authentication (Python Flask)
+ ├── 📂 database            # MongoDB schema
+ ├── 📂 docs                # Documentation & API references
+ ├── 📂 tests               # Unit and integration tests
+ ├── 📜 README.md           # Project documentation
+ ├── 📜 LICENSE             # Open-source license (MIT)
+
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
