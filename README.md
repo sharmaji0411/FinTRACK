@@ -37,14 +37,12 @@
 - **Freemium Model:** Basic features free, premium features via subscription.
 - **Enterprise Solutions:** Custom dashboards, API integrations for large businesses.
 
-![FinSight Dashboard](https://via.placeholder.com/800x400.png?text=FinSight+Dashboard)
-![FinTRACK Dashboard](https://via.placeholder.com/800x400.png?text=FinTRACK+Dashboard)
 
 ![Screenshot 7](./mnt/data/Screenshot%20(7).png)
 ![Screenshot 8](./mnt/data/Screenshot%20(8).png)
 ![Screenshot 9](./mnt/data/Screenshot%20(9).png)
 ![Screenshot 10](./mnt/data/Screenshot%20(10).png)
-![WhatsApp Image](./mnt/data/WhatsApp%20Image%202025-03-22%20at%2009.26.29.jpeg)
+
 
 📦 FinSight
  ├── 📂 frontend            # React.js UI components
