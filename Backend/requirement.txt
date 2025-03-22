@@ -1,0 +1,7 @@
+pandas 
+numpy
+yfinance
+flask 
+kiteconnect 
+dotenv 
+numpy-financial
