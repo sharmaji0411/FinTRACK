@@ -73,9 +73,7 @@ npm start
 🔹 API marketplace for third-party integrations  
 
 ## 🤝 Contributors
-- **Ritesh (Team Leader)**  
-- **Sangeet**  
-- **Rishi Gupta**  
-- **Vansh Sharma**  
-
-
+- **Ritesh (Team Leader)** - [GitHub](https://github.com/ritesh-profile)  
+- **Sangeet** - [GitHub](https://github.com/sharmaji0411)  
+- **Rishi Gupta** - [GitHub](https://github.com/Rishi-gupta-data)  
+- **Vansh Sharma** - [GitHub](https://github.com/sharmaji0411)
