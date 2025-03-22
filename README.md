@@ -40,7 +40,7 @@
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/FinSight-FinTRACK.git
+git clone https://github.com/Riteshcodeit/FinTRACK.git
 cd FinSight-FinTRACK
 ```
 
