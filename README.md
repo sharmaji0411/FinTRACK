@@ -74,6 +74,6 @@ npm start
 
 ## 🤝 Contributors
 - **Ritesh (Team Leader)** - [GitHub](https://github.com/ritesh-profile)  
-- **Sangeet** - [GitHub](https://github.com/sharmaji0411)  
+- **Sangeet** - [GitHub](https://github.com/sangeetcodes)  
 - **Rishi Gupta** - [GitHub](https://github.com/Rishi-gupta-data)  
 - **Vansh Sharma** - [GitHub](https://github.com/sharmaji0411)
