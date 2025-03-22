@@ -37,13 +37,20 @@
 - **Freemium Model:** Basic features free, premium features via subscription.
 - **Enterprise Solutions:** Custom dashboards, API integrations for large businesses.
 
+## 📸 Screenshots
+![Business Dashboard](https://github.com/user-attachments/assets/11d48b37-4875-4709-a601-1745e3286808)
+![Investment Tracker](https://github.com/user-attachments/assets/58476fa5-b1c8-4bb6-b7e0-854a440bc078)
+![Screenshot 1](https://github.com/user-attachments/assets/094950ba-734a-4c69-b931-c9765ec9c0b1)
+![Screenshot 2](https://github.com/user-attachments/assets/8a986efa-7e19-49cf-bc01-7c2dc1c73026)
+![Screenshot 3](https://github.com/user-attachments/assets/e53d6e89-95e0-4668-ab97-c32a335ac42e)
+![Screenshot 4](https://github.com/user-attachments/assets/f7421fab-d501-44a3-8d50-a0ee61c152d0)
+![Transaction Overview](https://github.com/user-attachments/assets/919eb59d-b479-4bcc-836d-89f7872d7f4e)
+![Portfolio Insights](https://github.com/user-attachments/assets/71846daf-c85d-4206-9563-d582b7e5d36d)
+![Financial Forecast](https://github.com/user-attachments/assets/1623cf3c-aefc-497c-bd24-73bdee06a96b)
 
-![Screenshot 7](./mnt/data/Screenshot%20(7).png)
-![Screenshot 8](./mnt/data/Screenshot%20(8).png)
-![Screenshot 9](./mnt/data/Screenshot%20(9).png)
-![Screenshot 10](./mnt/data/Screenshot%20(10).png)
-
-
+## 📂 Project Structure
+### **FinSight**
+```
 📦 FinSight
  ├── 📂 frontend            # React.js UI components
  ├── 📂 backend             # API and authentication (Node.js)
@@ -64,6 +71,7 @@
  ├── 📂 tests               # Unit and integration tests
  ├── 📜 README.md           # Project documentation
  ├── 📜 LICENSE             # Open-source license (MIT)
+```
 
 ## 🛠️ Installation & Setup
 ### **1️⃣ Clone the Repository**
@@ -95,13 +103,4 @@ npm start
 ```
 
 ## 🚀 Future Enhancements
-🔹 AI-driven financial risk analysis  
-🔹 Real-time notifications & alerts via WebSockets  
-🔹 Mobile app version using React Native  
-🔹 API marketplace for third-party integrations  
-
-## 🤝 Contributors
-- **Ritesh (Team Leader)** - [GitHub](https://github.com/ritesh-profile)  
-- **Sangeet** - [GitHub](https://github.com/sangeetcodes)  
-- **Rishi Gupta** - [GitHub](https://github.com/Rishi-gupta-data)  
-- **Vansh Sharma** - [GitHub](https://github.com/sharmaji0411)
+🔹 AI-driven financial risk analysis...
